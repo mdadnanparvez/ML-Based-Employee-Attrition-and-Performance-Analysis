@@ -23,7 +23,7 @@ Using a real-world HR dataset, multiple machine learning models were trained and
 - Pipeline-based model training
 
 ###  Cleaned Dataset Preview
-![Cleaned Data](images/preprocessed_dataset.png)
+![Cleaned Data](preproccesed_dataset.png)
 
 
 
@@ -48,21 +48,21 @@ Using a real-world HR dataset, multiple machine learning models were trained and
 
 ##  Confusion Matrices
 
-### Logistic Regression
-![LR CM](images/Logistic_Regression_confusion_matrix.png)
+### Logistic Regression  
+<img src="confusion_matrix1.png" width="300"/>
 
-### Random Forest
-![RF CM](images/Random_Forest_confusion_matrix.png)
+### Random Forest  
+<img src="confusion_matrix2.png" width="300"/>
 
-### XGBoost
-![XGB CM](images/XGBoost_confusion_matrix.png)
+### XGBoost  
+<img src="confusion_matrix3.png" width="300"/>
 
-### MLP Neural Network
-![MLP CM](images/MLP_Neural_Network_confusion_matrix.png)
+### MLP Neural Network  
+<img src="confusion_matrix4.png" width="300"/>
 
-### Voting Ensemble
-![Ensemble CM](images/Voting_Ensemble_confusion_matrix.png)
 
+### Voting Ensemble  
+<img src="confusion_matrix5.png" width="300"/>
 
 
 
