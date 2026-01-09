@@ -23,9 +23,7 @@ Using a real-world HR dataset, multiple machine learning models were trained and
 - Pipeline-based model training
 
 ###  Cleaned Dataset Preview
-![Cleaned Data](preproccesed_dataset.png)
-
-
+preproccesed_dataset.png
 
 ##  Machine Learning Models
 - Logistic Regression (Baseline)
